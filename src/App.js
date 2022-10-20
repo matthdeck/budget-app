@@ -57,7 +57,7 @@ function App() {
               setViewExpensesModalBudgetId(UNCATEGORIZED_BUDGET_ID)
             }
           />
-          <TotalBudgetCard />
+          <TotalBudgetCard/>
         </div>
       </Container>
       <AddBudgetModal 
